@@ -1,0 +1,5 @@
+*.json
+.library.json
+.ipynb_checkpoints/
+*.csv
+*.dat
